@@ -351,7 +351,9 @@ a{
     font-size: 12px;
 }
 
-.
+.katalog5{
+    grid-column-start: 2;
+}
 
 
 @media screen and (max-width: 680px) {
